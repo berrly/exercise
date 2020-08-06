@@ -2,7 +2,7 @@ flutter网址:
 1.https://javiercbk.github.io/json_to_dart/
 2插件：
  audio_recorder: any #录音、播放
-  flutter_sound: ^1.1.5#录音
+ flutter_sound: ^1.1.5#录音
   dropdown_menu: ^1.1.0#下拉菜单
   simple_permissions:#权限获取
   easy_alert:#弹框
